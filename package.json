@@ -1,6 +1,6 @@
 {
   "name": "set-timezone",
-  "version": "2.0",
+  "version": "3.0",
   "description": "Set timezone",
   "main": "index.js",
   "scripts": {
