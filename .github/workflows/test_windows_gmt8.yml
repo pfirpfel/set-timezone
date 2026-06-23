@@ -18,7 +18,7 @@ jobs:
     name: Test GMT +8 on Windows
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
       - name: Set Timezone to +8 (With input)
         uses: ./
         with:
