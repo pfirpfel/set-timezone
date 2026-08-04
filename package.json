@@ -20,7 +20,7 @@
   "homepage": "https://github.com/szenius/set-timezone#readme",
   "dependencies": {
     "@actions/core": "^3.0.0",
-    "execa": "^9.6.1"
+    "execa": "^10.0.1"
   },
   "devDependencies": {
     "@vercel/ncc": "^0.38.1",
